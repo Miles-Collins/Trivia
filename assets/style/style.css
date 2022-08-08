@@ -1,1 +1,34 @@
 /* BASIC STYLES HERE */
+body {
+  background-color: #00246a;
+  color: antiquewhite;
+}
+
+.navHeight {
+  height: 15VH;
+  background-color: #151421;
+}
+
+.footerHeight {
+  height: 15VH;
+  background-color: #151421;
+}
+
+.roundBtn {
+  display:block;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0);  
+  background-image: url(../img/whowantsto.png);
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.questionBox {
+  border: 2px white solid;
+  background-color: #151421;
+  color: whitesmoke;
+  border-radius: 3%;
+}
